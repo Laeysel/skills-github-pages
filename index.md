@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Willkommen zu dieser Seite! : Was geht?
 ---
 
